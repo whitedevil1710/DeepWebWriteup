@@ -15,3 +15,13 @@ The **dark web** is the World Wide Web content that exists on darknet overlay ne
 ## **Contents in website**
 
 The dark web websites are hidden so we require the exact URL to access it different dark websites. We can find the directory to different dark websites using a search engine called Hidden Wikki. In that we can find a lots of directories which will redirect to the pages which contain a lots of content like child pornography, selling credit and debit card, Drug stores, Illegal medicines, and so on.
+## **Difference Between Darkweb and Deepweb**
+
+
+|            | **Deep Web**                                                                                          | **Dark Web**                                                                                                                                                           |
+|------------|-------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Concept    | The deep web is part of the www web where contents cannot be indexed by search engines.	              | The dark web is part of www web where content lies on the darknet where contents can be accessed only using specific software, configurations or authorization access. |
+| Usage      | The deep web is used by an organization like banks, corporates, etc.	                                 | The dark web is a hub of illegal activities. Criminals/terrorists etc are active on the dark web.                                                                      |
+| Indexing   | Deep Web contents are not indexed by a search engine.	                                                | Contents are accessible on personal networks/peer to peer configurations.                                                                                              |
+| Regulation | Websites are invisible to the world as public access is not enabled.	                                 | Dark Web is not regulated and IP addresses are hidden.                                                                                                                 |
+| Access     | Deep web contents are accessible with a valid username/password or another authentication mechanism.	 | The dark web is accessible with specific software only.                                                                                                                |
